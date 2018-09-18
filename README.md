@@ -6,7 +6,7 @@ install globaly node on your computer
 
 ```sh
 # download your code locally
-git clone https://github.com/GITHUB_LOGIN/js-training.git
+git clone https://github.com/ArckMax/js-training.git
 # don't forget to remplace GITHUB_LOGIN by your github login
 
 # change working directory to the newly cloned repository
