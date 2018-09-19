@@ -9,6 +9,10 @@
 
 // Your code :
 
+function getLast(param){
+	return param[param.length -1];
+}
+
 //* Begin of tests
 const assert = require('assert')
 
