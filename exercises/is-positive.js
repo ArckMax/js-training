@@ -9,6 +9,14 @@
 
 // Your code:
 
+function isPositive(nb) {
+	if (nb > 0){
+		return true;
+	} else {
+		return false;
+	}
+}
+
 
 //* Begin of tests
 const assert = require('assert')
